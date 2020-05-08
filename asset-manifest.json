@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SCAMP-Assessment/static/css/main.44af324f.chunk.css",
+    "main.js": "/SCAMP-Assessment/static/js/main.469f72e9.chunk.js",
+    "main.js.map": "/SCAMP-Assessment/static/js/main.469f72e9.chunk.js.map",
+    "runtime-main.js": "/SCAMP-Assessment/static/js/runtime-main.4b6a7a17.js",
+    "runtime-main.js.map": "/SCAMP-Assessment/static/js/runtime-main.4b6a7a17.js.map",
+    "static/css/2.e2ffb87f.chunk.css": "/SCAMP-Assessment/static/css/2.e2ffb87f.chunk.css",
+    "static/js/2.7fe0c7c0.chunk.js": "/SCAMP-Assessment/static/js/2.7fe0c7c0.chunk.js",
+    "static/js/2.7fe0c7c0.chunk.js.map": "/SCAMP-Assessment/static/js/2.7fe0c7c0.chunk.js.map",
+    "index.html": "/SCAMP-Assessment/index.html",
+    "precache-manifest.80340cc4c663b1c140e34e1d1c037a33.js": "/SCAMP-Assessment/precache-manifest.80340cc4c663b1c140e34e1d1c037a33.js",
+    "service-worker.js": "/SCAMP-Assessment/service-worker.js",
+    "static/css/2.e2ffb87f.chunk.css.map": "/SCAMP-Assessment/static/css/2.e2ffb87f.chunk.css.map",
+    "static/css/main.44af324f.chunk.css.map": "/SCAMP-Assessment/static/css/main.44af324f.chunk.css.map",
+    "static/js/2.7fe0c7c0.chunk.js.LICENSE.txt": "/SCAMP-Assessment/static/js/2.7fe0c7c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6a7a17.js",
+    "static/css/2.e2ffb87f.chunk.css",
+    "static/js/2.7fe0c7c0.chunk.js",
+    "static/css/main.44af324f.chunk.css",
+    "static/js/main.469f72e9.chunk.js"
+  ]
+}
