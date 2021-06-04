@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/SCAMP-Assessment/static/css/main.44af324f.chunk.css",
-    "main.js": "/SCAMP-Assessment/static/js/main.469f72e9.chunk.js",
-    "main.js.map": "/SCAMP-Assessment/static/js/main.469f72e9.chunk.js.map",
-    "runtime-main.js": "/SCAMP-Assessment/static/js/runtime-main.4b6a7a17.js",
-    "runtime-main.js.map": "/SCAMP-Assessment/static/js/runtime-main.4b6a7a17.js.map",
-    "static/css/2.e2ffb87f.chunk.css": "/SCAMP-Assessment/static/css/2.e2ffb87f.chunk.css",
-    "static/js/2.7fe0c7c0.chunk.js": "/SCAMP-Assessment/static/js/2.7fe0c7c0.chunk.js",
-    "static/js/2.7fe0c7c0.chunk.js.map": "/SCAMP-Assessment/static/js/2.7fe0c7c0.chunk.js.map",
-    "index.html": "/SCAMP-Assessment/index.html",
-    "precache-manifest.80340cc4c663b1c140e34e1d1c037a33.js": "/SCAMP-Assessment/precache-manifest.80340cc4c663b1c140e34e1d1c037a33.js",
-    "service-worker.js": "/SCAMP-Assessment/service-worker.js",
-    "static/css/2.e2ffb87f.chunk.css.map": "/SCAMP-Assessment/static/css/2.e2ffb87f.chunk.css.map",
-    "static/css/main.44af324f.chunk.css.map": "/SCAMP-Assessment/static/css/main.44af324f.chunk.css.map",
-    "static/js/2.7fe0c7c0.chunk.js.LICENSE.txt": "/SCAMP-Assessment/static/js/2.7fe0c7c0.chunk.js.LICENSE.txt"
+    "main.css": "/ucwealth/CoronaMonitor/static/css/main.140dce95.chunk.css",
+    "main.js": "/ucwealth/CoronaMonitor/static/js/main.6eeaf6a5.chunk.js",
+    "main.js.map": "/ucwealth/CoronaMonitor/static/js/main.6eeaf6a5.chunk.js.map",
+    "runtime-main.js": "/ucwealth/CoronaMonitor/static/js/runtime-main.ec955f4d.js",
+    "runtime-main.js.map": "/ucwealth/CoronaMonitor/static/js/runtime-main.ec955f4d.js.map",
+    "static/css/2.9233ae65.chunk.css": "/ucwealth/CoronaMonitor/static/css/2.9233ae65.chunk.css",
+    "static/js/2.0f2986b7.chunk.js": "/ucwealth/CoronaMonitor/static/js/2.0f2986b7.chunk.js",
+    "static/js/2.0f2986b7.chunk.js.map": "/ucwealth/CoronaMonitor/static/js/2.0f2986b7.chunk.js.map",
+    "index.html": "/ucwealth/CoronaMonitor/index.html",
+    "precache-manifest.3c80ec8be394bd69595219d135f6fd09.js": "/ucwealth/CoronaMonitor/precache-manifest.3c80ec8be394bd69595219d135f6fd09.js",
+    "service-worker.js": "/ucwealth/CoronaMonitor/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/ucwealth/CoronaMonitor/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.140dce95.chunk.css.map": "/ucwealth/CoronaMonitor/static/css/main.140dce95.chunk.css.map",
+    "static/js/2.0f2986b7.chunk.js.LICENSE.txt": "/ucwealth/CoronaMonitor/static/js/2.0f2986b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b6a7a17.js",
-    "static/css/2.e2ffb87f.chunk.css",
-    "static/js/2.7fe0c7c0.chunk.js",
-    "static/css/main.44af324f.chunk.css",
-    "static/js/main.469f72e9.chunk.js"
+    "static/js/runtime-main.ec955f4d.js",
+    "static/css/2.9233ae65.chunk.css",
+    "static/js/2.0f2986b7.chunk.js",
+    "static/css/main.140dce95.chunk.css",
+    "static/js/main.6eeaf6a5.chunk.js"
   ]
 }
