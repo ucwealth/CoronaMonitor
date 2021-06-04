@@ -13,7 +13,7 @@ import {
 
 const SearchForm = (props) => {
   return (
-    <div className="centerDiv">
+    <div className="centerDiv" style={{ marginTop: "25px" }}>
       <Container>
         <Form onSubmit={props.fetchCountryData}>
           <Row>
@@ -29,7 +29,7 @@ const SearchForm = (props) => {
                   value={props.inputValue}
                   onChange={props.handleInputChange}
                 />
-                <Button color="success" type="submit">
+                <Button color="success" type="submit" style={{ marginTop: "15px" }}>
                   Search
                 </Button>
               </FormGroup>

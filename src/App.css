@@ -1,20 +1,24 @@
-.project-name {
-  font: 400 20px "Pacifico", cursive;
+.project-font {
+  /* font: 400 20px "Pacifico", cursive; */
+  font: 400 35px "Georgia", serif;
 }
 .main {
-  width: 70%;
+  width: 65%;
   margin: auto;
-  /* border: 1px solid #5cb85c; */
-  /* border-radius: 5px; */
-  box-shadow: 3px 3px 2px 2px grey;
+  border-radius: 10px;
+  box-shadow: 3px 3px 2px #5cb85c;
 }
 .main p {
   font-size: 20px;
 }
 .centerDiv {
-  width: 70%;
+  width: 65%;
   margin: auto;
 }
 .footer {
   text-align: center;
 }
+#project-name {
+  font-weight: bolder;
+}
+

@@ -8,11 +8,11 @@ function Footer() {
       <footer className="footer">
         <Container>
           <p className="text-muted">
-            &copy;2020 | Made With
+            &copy;2020 | Made With &nbsp;
             <span role="img" aria-label="red-heart">
               ❤️
             </span>
-            By Uchechukwu Okeke
+            &nbsp;By Uchechukwu Okeke
           </p>
         </Container>
       </footer>

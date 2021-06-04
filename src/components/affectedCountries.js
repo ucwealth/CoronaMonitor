@@ -24,7 +24,7 @@ const AffectedCountries = (props) => {
   return (
     <div className="centerDiv">
       <Container>
-        <Table striped>
+        <Table striped success responsive bordered hover>
           <thead>
             <tr>
               <th>Country</th>

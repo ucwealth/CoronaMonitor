@@ -3,10 +3,16 @@ import "../App.css";
 import { Row, Col, Container } from "reactstrap";
 
 function Main(props) {
+  const styles = {
+    paddingTop: '20px', 
+    textAlign: "center",
+    color: 'green',
+    fontWeight: 'bolder'
+  }
   return (
     <div className="main">
       <Container>
-        <h2 style={{ textAlign: "center" }}>Global CoronaVirus Statistics</h2>
+        <h2 style={styles} className="project-font">Global Corona Virus Statistics</h2>
         <br />
         <Row>
           <Col xs="4">
