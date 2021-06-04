@@ -12,7 +12,7 @@ function Main(props) {
   return (
     <div className="main">
       <Container>
-        <h2 style={styles} className="project-font">Global Corona Virus Statistics</h2>
+        <h2 style={styles} className="project-font">Global CoronaVirus Statistics</h2>
         <br />
         <Row>
           <Col xs="4">
