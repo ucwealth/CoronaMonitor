@@ -138,7 +138,7 @@ class App extends Component {
           rankSelect={this.rankSelect(filteredCountries)}
           freeCountries={freeCountries}
         />
-
+        // This comment is a dummy. Please disregard
         <Footer />
       </div>
     );
