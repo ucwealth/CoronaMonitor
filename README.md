@@ -1,2 +1,2 @@
-﻿# SCAMP-Assessment
- ## Hosted at: https://ucwealth.github.io/SCAMP-Assessment/
+﻿# CoronaMonitor
+ ## Hosted at: https://ucwealth.github.io/CoronaMonitor/
