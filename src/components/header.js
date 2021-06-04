@@ -20,7 +20,7 @@ const Header = (props) => {
     <div>
       <Navbar color="dark" dark expand="md">
       <Container>
-        <NavbarBrand id="project-name" className="project-font" href="#" success>CV Monitor</NavbarBrand>
+        <NavbarBrand id="project-name" href="#">CV Monitor</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           

@@ -3,7 +3,7 @@
   font: 400 35px "Georgia", serif;
 }
 .main {
-  width: 65%;
+  width: 70%;
   margin: auto;
   border-radius: 10px;
   box-shadow: 3px 3px 2px #5cb85c;
@@ -12,7 +12,7 @@
   font-size: 20px;
 }
 .centerDiv {
-  width: 65%;
+  width: 70%;
   margin: auto;
 }
 .footer {
@@ -20,5 +20,6 @@
 }
 #project-name {
   font-weight: bolder;
+  font: 400 25px "Georgia", serif;
 }
 

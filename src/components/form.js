@@ -20,7 +20,7 @@ const SearchForm = (props) => {
             <Col xs="6">
               <FormGroup>
                 <Label for="country">
-                  Do you want to search For a specific country?
+                  Do you want to search for a specific country?
                 </Label>
                 <Input
                   type="text"
